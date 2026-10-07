@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Saileshwaran 👋
 
-<!--
-**SAILESHWARAN29/SAILESHWARAN29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student ⚡
 
-Here are some ideas to get you started:
+🎓 B.E. ECE — St. Joseph's College of Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning C Programming
+🔌 Exploring Electronics & Digital Systems
+🚀 Building my skills step by step
+
+## 🎯 My Goal
+
+To become a strong ECE engineer with skills in
+software, embedded systems and electronics.
+
+## 🛠️ Currently Learning
+
+- C Programming
+- Data Structures & Algorithms
+- Digital Electronics
+- Git & GitHub
+- Embedded Systems
+
+## 📂 Projects
+
+Coming soon...
+
+## 📈 My Journey
+
+Learn → Build → Improve → Repeat
+
+## 📫 Connect With Me
+
+LinkedIn | GitHub
